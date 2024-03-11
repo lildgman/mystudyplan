@@ -1,0 +1,20 @@
+.content {
+    color:black
+}
+
+#weakshiba {
+    width:30%;
+    margin:auto;
+}
+
+#strongshiba {
+    width:30%;
+    margin:auto;
+}
+
+.itemdiv {
+    display: flex;
+    flex-flow: row ;
+    /* align-items: center; */
+    justify-content: center;
+}
